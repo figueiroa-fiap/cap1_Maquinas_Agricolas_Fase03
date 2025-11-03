@@ -2,6 +2,7 @@ import cx_Oracle
 import os
 
 # Atualização confirmada em 03/11/2025
+# Atualização forçada em 03/11/2025
 
 # Solicita a data ao usuário
 data_input = input("Digite a data no formato DD/MM/YY: ").strip()
