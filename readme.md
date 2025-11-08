@@ -34,7 +34,8 @@ tambem mostra o PH x D+7 mas aqui como dispersão
 grafico_umidade_tempo.html
 Grafico da umidade no periodo
 
-
+O arquivo: RODRIGOFIGUEIROA_RM567800_FASE3_CAP1.ipynb
+foi incluido aqui, porque foi impossivel, carregar na plataforma.
 
 
 
