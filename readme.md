@@ -10,3 +10,7 @@ Sugestões de irrigação baseadas em clima.
 Contemplando a primeira etapa do Ir Além.
 
 Dentro do Projeto, também temos um arquivo PDF com o passo a passo da inserção do  banco de dados. 
+
+Graficos.py
+O Arquivo gráfico servira para gerar os outros gráficos Relacionados a análise exploratória.
+
